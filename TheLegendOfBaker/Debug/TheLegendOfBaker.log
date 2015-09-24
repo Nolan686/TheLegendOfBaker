@@ -1,0 +1,119 @@
+﻿Build started 9/23/2015 11:08:55 PM.
+     1>Project "C:\Users\Nolan\Desktop\C++ Programs\TheLegendOfBaker\TheLegendOfBaker\TheLegendOfBaker.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\vsulturmite\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CApplication.cpp Character.cpp LoadingEngine.cpp NPC.cpp Projectile.cpp RenderLogic.cpp TextureManager.cpp World.cpp main.cpp
+         World.cpp
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(90): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(91): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(58): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(59): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(117): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(118): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(27): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(28): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(101): warning C4244: '=' : conversion from 'Sint32' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(102): warning C4244: '=' : conversion from 'Sint32' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(119): warning C4244: '=' : conversion from 'Sint32' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(120): warning C4244: '=' : conversion from 'Sint32' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(131): warning C4244: '=' : conversion from 'Sint32' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(132): warning C4244: '=' : conversion from 'Sint32' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(151): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(152): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(187): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(188): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(213): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(214): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(231): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\world.cpp(232): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         CApplication.cpp
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(90): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(91): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(58): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(59): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(117): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(118): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\capplication.cpp(110): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\capplication.cpp(139): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\capplication.cpp(101): warning C4101: 'setHeight' : unreferenced local variable
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\capplication.cpp(100): warning C4101: 'setWidth' : unreferenced local variable
+         Generating Code...
+         Compiling...
+         Projectile.cpp
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(90): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(91): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(117): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(118): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(58): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(59): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.cpp(53): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.cpp(54): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.cpp(216): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.cpp(217): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.cpp(343): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.cpp(349): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.cpp(354): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.cpp(359): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.cpp(364): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         NPC.cpp
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(58): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(59): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(117): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(118): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(90): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(91): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.cpp(11): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.cpp(31): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.cpp(36): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.cpp(97): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.cpp(98): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.cpp(237): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.cpp(238): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.cpp(312): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Character.cpp
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(90): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\npc.h(91): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(58): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\projectile.h(59): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(117): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.h(118): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(7): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(17): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(19): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(20): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(123): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(296): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(301): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(328): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(329): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(511): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(512): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(580): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(590): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(591): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(607): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nolan\desktop\c++ programs\thelegendofbaker\thelegendofbaker\character.cpp(612): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         main.cpp
+         TextureManager.cpp
+         RenderLogic.cpp
+         LoadingEngine.cpp
+       Link:
+         E:\vsulturmite\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nolan\Desktop\C++ Programs\TheLegendOfBaker\Debug\TheLegendOfBaker.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib SDL2_mixer.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Nolan\Desktop\C++ Programs\TheLegendOfBaker\Debug\TheLegendOfBaker.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Nolan\Desktop\C++ Programs\TheLegendOfBaker\Debug\TheLegendOfBaker.lib" /MACHINE:X86 Debug\Animation.obj
+         Debug\Audio.obj
+         Debug\CApplication.obj
+         Debug\Character.obj
+         Debug\LoadingEngine.obj
+         Debug\main.obj
+         Debug\NPC.obj
+         Debug\Projectile.obj
+         Debug\RenderLogic.obj
+         Debug\TextureManager.obj
+         Debug\Timer.obj
+         Debug\World.obj
+         TheLegendOfBaker.vcxproj -> C:\Users\Nolan\Desktop\C++ Programs\TheLegendOfBaker\Debug\TheLegendOfBaker.exe
+     1>Done Building Project "C:\Users\Nolan\Desktop\C++ Programs\TheLegendOfBaker\TheLegendOfBaker\TheLegendOfBaker.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.05
